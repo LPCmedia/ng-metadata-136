@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chai": "registry:npm/chai#3.5.0+20160723033700",
+    "lodash": "registry:npm/lodash#4.0.0+20160416211519",
+    "sinon": "registry:npm/sinon#1.16.0+20160427193336",
+    "sinon-chai": "registry:npm/sinon-chai#2.8.0+20160310030142",
+    "source-map": "registry:npm/source-map#0.4.0+20160211003958",
+    "webpack": "registry:npm/webpack#1.12.9+20160418172948"
+  },
+  "globalDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160627105203",
+    "angular-mocks": "registry:dt/angular-mocks#1.5.0+20160608104721",
+    "angular-translate": "registry:dt/angular-translate#2.4.0+20160729132354",
+    "core-js": "registry:dt/core-js#0.0.0+20160602141332",
+    "jquery": "registry:dt/jquery#1.10.0+20160704162008",
+    "mocha": "registry:dt/mocha#2.2.5+20160720003353",
+    "q": "registry:dt/q#0.0.0+20160417152954"
+  }
+}

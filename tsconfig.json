@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "inlineSourceMap": true,
+    "moduleResolution": "node",
+    "pretty": true,
+    "stripInternal": true,
+    "noEmitHelpers": true,
+    "noEmitOnError": true,
+    "outDir": "ts-out"
+  },
+  "exclude": [
+    "node_modules",
+    "www",
+    "bower_components",
+    "coverage"
+  ],
+  "compileOnSave": false
+}
