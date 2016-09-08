@@ -1,5 +1,4 @@
 /// <reference path="../typings/index.d.ts" />
-/// <reference path="../typings/tsd.d.ts" />
 
 import 'angular';
 import 'angular-animate';
